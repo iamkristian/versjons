@@ -35,6 +35,8 @@ config.timestamp = info.timestamp
 
 And you're good to go.
 
-# License
+# Author
 
-MIT
+Kristian Rasmussen
+
+License: MIT
