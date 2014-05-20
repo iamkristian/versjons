@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/iamkristian/versjons.svg?branch=master)](https://travis-ci.org/iamkristian/versjons) [![Code Climate](https://codeclimate.com/github/iamkristian/versjons.png)](https://codeclimate.com/github/iamkristian/versjons)
 # Versjons
 
 This gem will add version information to your rails app. It will read version information from
