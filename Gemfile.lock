@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    versjons (0.0.1)
+    versjons (0.0.2)
       rails (~> 3.2.18)
 
 GEM
